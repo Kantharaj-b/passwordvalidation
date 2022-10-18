@@ -1,4 +1,4 @@
-package test;
+package com.kraj.password;
 
 public class PasswordValidatorTest {
 
