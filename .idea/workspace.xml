@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9862c1-a5f4-4da4-a7a6-c52d3d76f082" name="Changes" comment="initial structure">
+    <list default="true" id="8e9862c1-a5f4-4da4-a7a6-c52d3d76f082" name="Changes" comment="project skeleton as per stds">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordvalidation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/passwordvalidation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kraj/password/PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/kraj/password/PasswordValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -41,7 +41,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91900\Documents\MyWorkspace\passwordvalidation\src\test\java" />
+      <recent name="C:\Users\91900\Documents\MyWorkspace\passwordvalidation\src\main\java" />
       <recent name="C:\Users\91900\Documents\MyWorkspace\passwordvalidation\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kraj.password" />
     </key>
   </component>
   <component name="RunManager">
@@ -74,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666112208497</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project skeleton as per stds">
+      <created>1666116150514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666116150514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial structure" />
+    <MESSAGE value="project skeleton as per stds" />
+    <option name="LAST_COMMIT_MESSAGE" value="project skeleton as per stds" />
   </component>
 </project>
